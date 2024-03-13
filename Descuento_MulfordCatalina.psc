@@ -8,6 +8,7 @@ Algoritmo Descuento
 		Sino
 			descu <- costo-(0.1 * costo)
 		FinSi
+
 	SiNo
 		Escribir "No recives ningun descuento, pagaras: ",costo
 	FinSi
